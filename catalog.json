@@ -1,5 +1,15 @@
 {
     "maps":  [
-
+                 {
+                     "id":  "14c4bfab-2520-48e1-80c2-eb3de7c38a45",
+                     "name":  "test map",
+                     "author":  "Heirly",
+                     "description":  "",
+                     "sizeBytes":  165725,
+                     "version":  1,
+                     "preview":  "maps/14c4bfab-2520-48e1-80c2-eb3de7c38a45.png",
+                     "zip":  "maps/14c4bfab-2520-48e1-80c2-eb3de7c38a45.zip",
+                     "sha256":  "7F6EBE082C7184CABEBC0B78B14DA11D7698206723C0A92BF4FE4FA0D8A087B3"
+                 }
              ]
 }
