@@ -23,6 +23,18 @@
                      "preview":  "maps/2133509860.png",
                      "zip":  "maps/2133509860.zip",
                      "sha256":  "6A325085CBF9FF5CDCBEDAC7A8890F720A454F95C9E8919E395F655AB016E351"
+                 },
+                 {
+                     "id":  "21284811605",
+                     "name":  "Granny\u0027s House",
+                     "author":  "Denisboy5054",
+                     "description":  "A full recreation of Granny\u0027s house! Rather than breaking in, you are now trapped, and you have to break out of the house! There are 3 sonar buttons, 2 rifles, and many closets to hide in! Have fun!",
+                     "owner":  "12804f8237fb30fcc39723479f7d45ae",
+                     "sizeBytes":  234490,
+                     "version":  1,
+                     "preview":  "maps/21284811605.png",
+                     "zip":  "maps/21284811605.zip",
+                     "sha256":  "DFF0E14239AF6E505073CD1CD2B7CB59433BF19EE34668F31CF55AC3D5D56B9C"
                  }
              ]
 }
