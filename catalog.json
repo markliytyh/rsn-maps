@@ -35,6 +35,18 @@
                      "preview":  "maps/2133509860.png",
                      "zip":  "maps/2133509860.zip",
                      "sha256":  "2245E9E3A95C3AC965C773BBFFCFFD722C3FB79846907648C995B31D0219EE10"
+                 },
+                 {
+                     "id":  "2130381168",
+                     "name":  "Driving to Burger King at 6AM",
+                     "author":  "Denisboy5054",
+                     "description":  "",
+                     "owner":  "12804f8237fb30fcc39723479f7d45ae",
+                     "sizeBytes":  248814,
+                     "version":  1,
+                     "preview":  "maps/2130381168.png",
+                     "zip":  "maps/2130381168.zip",
+                     "sha256":  "FFF24BBA4290F9FECD2490C5297C133BA2A14CC4D5DFC3E938DE29E3A96FBC98"
                  }
              ]
 }
