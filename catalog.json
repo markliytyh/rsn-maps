@@ -83,6 +83,18 @@
                      "preview":  "maps/3712201328.png",
                      "zip":  "maps/3712201328.zip",
                      "sha256":  "13B6DAF53CC29443B0B82621A2AE47AD69A09BBB22B0BECBB0E45E32A6DAA6B3"
+                 },
+                 {
+                     "id":  "155b2f18-f815-44e1-98e9-fe4ab4170cf0",
+                     "name":  "DvRAlpha0.1",
+                     "author":  "Stranger?.",
+                     "description":  "GIANT Map with a lot of hidden treasures, parkour and shortcuts. Created by Stranger?. on 13.11.2026.",
+                     "owner":  "0e68872415ef70e1de7115104b9ee3e8",
+                     "sizeBytes":  324705,
+                     "version":  1,
+                     "preview":  "maps/155b2f18-f815-44e1-98e9-fe4ab4170cf0.png",
+                     "zip":  "maps/155b2f18-f815-44e1-98e9-fe4ab4170cf0.zip",
+                     "sha256":  "47EFD6EDD8E02C4A7D5C5CE89DF0BD17E28E6186650481A9F2969794D80BD0E8"
                  }
              ]
 }
