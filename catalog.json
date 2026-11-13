@@ -71,6 +71,18 @@
                      "preview":  "maps/2128304582.png",
                      "zip":  "maps/2128304582.zip",
                      "sha256":  "04FE403841D157A46725A8EED632C9C636D138D00AE3CC92B35422D288187922"
+                 },
+                 {
+                     "id":  "3712201328",
+                     "name":  "Quiet House",
+                     "author":  "Sh00rty",
+                     "description":  "new update Soon",
+                     "owner":  "9cf489bf675180ef7e792acfb8b133f3",
+                     "sizeBytes":  361788,
+                     "version":  1,
+                     "preview":  "maps/3712201328.png",
+                     "zip":  "maps/3712201328.zip",
+                     "sha256":  "13B6DAF53CC29443B0B82621A2AE47AD69A09BBB22B0BECBB0E45E32A6DAA6B3"
                  }
              ]
 }
