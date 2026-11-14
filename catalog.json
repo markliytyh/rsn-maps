@@ -95,6 +95,18 @@
                      "preview":  "maps/b3a48d6f-5528-400f-aed3-65fa71312f06.png",
                      "zip":  "maps/b3a48d6f-5528-400f-aed3-65fa71312f06.zip",
                      "sha256":  "74D240A5723FF7BDA77A84446EA8E2A29E710B0330F3FB73422482B0A579017D"
+                 },
+                 {
+                     "id":  "e0a14d66-c772-423c-b170-70d353f64814",
+                     "name":  "parkour",
+                     "author":  "Sh00rty",
+                     "description":  "",
+                     "owner":  "9cf489bf675180ef7e792acfb8b133f3",
+                     "sizeBytes":  185891,
+                     "version":  1,
+                     "preview":  "maps/e0a14d66-c772-423c-b170-70d353f64814.png",
+                     "zip":  "maps/e0a14d66-c772-423c-b170-70d353f64814.zip",
+                     "sha256":  "47287D2602459030D5BDCFB7A5BBB91938BFD5A8763F9DA2DE39960DFEFC1FDB"
                  }
              ]
 }
