@@ -71,18 +71,6 @@
                      "preview":  "maps/2128304582.png",
                      "zip":  "maps/2128304582.zip",
                      "sha256":  "04FE403841D157A46725A8EED632C9C636D138D00AE3CC92B35422D288187922"
-                 },
-                 {
-                     "id":  "3605133d-7783-42f1-b84f-7249376af048",
-                     "name":  "E3SN",
-                     "author":  "Sh00rty",
-                     "description":  "",
-                     "owner":  "9cf489bf675180ef7e792acfb8b133f3",
-                     "sizeBytes":  237966,
-                     "version":  1,
-                     "preview":  "maps/3605133d-7783-42f1-b84f-7249376af048.png",
-                     "zip":  "maps/3605133d-7783-42f1-b84f-7249376af048.zip",
-                     "sha256":  "19943BA12683A54A268ABA1466F1E7BF481B5E47467ABF896F4CED07B4704BCF"
                  }
              ]
 }
