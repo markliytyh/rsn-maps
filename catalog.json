@@ -107,6 +107,18 @@
                      "preview":  "maps/e0a14d66-c772-423c-b170-70d353f64814.png",
                      "zip":  "maps/e0a14d66-c772-423c-b170-70d353f64814.zip",
                      "sha256":  "47287D2602459030D5BDCFB7A5BBB91938BFD5A8763F9DA2DE39960DFEFC1FDB"
+                 },
+                 {
+                     "id":  "9b9101d5-0289-437c-ab3d-a20ca23d2477",
+                     "name":  "vacation with neighbor",
+                     "author":  "Sh00rty",
+                     "description":  "",
+                     "owner":  "9cf489bf675180ef7e792acfb8b133f3",
+                     "sizeBytes":  173726,
+                     "version":  1,
+                     "preview":  "maps/9b9101d5-0289-437c-ab3d-a20ca23d2477.png",
+                     "zip":  "maps/9b9101d5-0289-437c-ab3d-a20ca23d2477.zip",
+                     "sha256":  "EA94503FE66B6BD7C2760E2C2C33BA913461F7DACA094197C42FEFAD8466769C"
                  }
              ]
 }
