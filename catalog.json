@@ -107,18 +107,6 @@
                      "preview":  "maps/9b9101d5-0289-437c-ab3d-a20ca23d2477.png",
                      "zip":  "maps/9b9101d5-0289-437c-ab3d-a20ca23d2477.zip",
                      "sha256":  "EA94503FE66B6BD7C2760E2C2C33BA913461F7DACA094197C42FEFAD8466769C"
-                 },
-                 {
-                     "id":  "155b2f18-f815-44e1-98e9-fe4ab4170cf0",
-                     "name":  "DvR.Alpha 0.4",
-                     "author":  "Stranger?.",
-                     "description":  "added lots of items and improved the level of detail",
-                     "owner":  "0e68872415ef70e1de7115104b9ee3e8",
-                     "sizeBytes":  396992,
-                     "version":  1,
-                     "preview":  "maps/155b2f18-f815-44e1-98e9-fe4ab4170cf0.png",
-                     "zip":  "maps/155b2f18-f815-44e1-98e9-fe4ab4170cf0.zip",
-                     "sha256":  "B06B472DFD20F4DE5CB4D94E30FB61D72B21A05946DA3F99761AAA970FB7FD31"
                  }
              ]
 }
