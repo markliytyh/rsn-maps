@@ -107,6 +107,18 @@
                      "preview":  "maps/9b9101d5-0289-437c-ab3d-a20ca23d2477.png",
                      "zip":  "maps/9b9101d5-0289-437c-ab3d-a20ca23d2477.zip",
                      "sha256":  "EA94503FE66B6BD7C2760E2C2C33BA913461F7DACA094197C42FEFAD8466769C"
+                 },
+                 {
+                     "id":  "155b2f18-f815-44e1-98e9-fe4ab4170cf0",
+                     "name":  "DvR.Alpha 0.6",
+                     "author":  "Stranger?.",
+                     "description":  "The map should be fully playable now; Alpha 0.6 update added/improved/removed some shortcuts and keycard-doors, fixed some issues and reworked/added some more detail to specific \"empty\" rooms. Tell me map-related bugs, if you find any.",
+                     "owner":  "0e68872415ef70e1de7115104b9ee3e8",
+                     "sizeBytes":  393142,
+                     "version":  1,
+                     "preview":  "maps/155b2f18-f815-44e1-98e9-fe4ab4170cf0.png",
+                     "zip":  "maps/155b2f18-f815-44e1-98e9-fe4ab4170cf0.zip",
+                     "sha256":  "B8767D651FA0F94F26620BCCEC23A5E711ACEC5045F6CB22F8D7F3252DCF6841"
                  }
              ]
 }
